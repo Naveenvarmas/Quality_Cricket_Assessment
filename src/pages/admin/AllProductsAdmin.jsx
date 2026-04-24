@@ -1,6 +1,6 @@
 import { useState } from "react";
 import AdminLayout from "../../layouts/AdminLayout";
-import productsData from "../data/products";
+import productsData from "../../pages/data/Products";
 import {
   Pencil,
   Trash2,

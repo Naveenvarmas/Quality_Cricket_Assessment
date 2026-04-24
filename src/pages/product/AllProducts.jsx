@@ -5,7 +5,7 @@ import {
 } from "react-router-dom";
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
-import products from "../data/products";
+import products from "../../pages/data/Products";
 
 /* FILTER SECTION */
 function FilterSection({
